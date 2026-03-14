@@ -1,4 +1,4 @@
-🧠 GPT Clone with Summarizer Tool
+#🧠 GPT Clone with Summarizer Tool
 A simple yet powerful ChatGPT clone built using Python, OpenAI’s LLM, and Streamlit. This chatbot allows users to have natural conversations and even summarizes the entire chat with a single click.
 
 🔑 Key Features:
